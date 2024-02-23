@@ -1,2 +1,1 @@
-# MiguelAndreuGarciaAguirre-POO-GrupoA-20241
-Ingenieria en Sistemas Computacionales, Tecnologico de Morelia. 
+Tarea 5 de la unidad 2, Miguel Garcia
